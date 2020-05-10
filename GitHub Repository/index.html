@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+    <style>
+        body{
+            margin: 0px;
+            background-color: darkslategrey;
+        }
+        .home{
+            font-size: 30px;
+            vertical-align: middle;
+            color:aliceblue;
+            background-color:darkslategrey;
+            border-right-width: 0px;
+            border-right-style: solid;
+            border-left: 0px;
+            border-bottom: 0px;
+            border-top: 0px;
+            height: 100px;
+            width: 200px;
+        }
+        #a{
+            display: flex;
+            align-items: center;
+            float: left;
+            background-color: black;
+            height: 100px;
+            width: 100%;
+        }
+        #img1{
+            
+            height: 100px;
+            width: auto;  
+        }
+        .butn{
+            font-size: 30px;
+            vertical-align: middle;
+            color: aliceblue;
+            background-color: black;
+            border-right-width: 1px;
+            border-right-style: solid;
+            border-left: 0px;
+            border-bottom: 0px;
+            border-top: 0px;
+            height: 50px;
+            width: 200px;
+        }
+        button:hover{
+            cursor: pointer;
+        }
+        .txt{
+            margin-left: 40px;
+            font-size: 100px;
+            color:white;
+            font-family: 'Noto Sans JP', sans-serif;
+        }
+        .txt1{
+            margin-left: 60px;
+            font-size: 40px;
+            color:white;
+            font-family: 'Rubik', sans-serif;
+        }
+        .bottom{
+            margin: 0px;
+            text-align: center;
+            color:aliceblue;
+            font-family: 'Lato', sans-serif;
+            background-color:rgb(24, 22, 22);
+        }
+    </style>
+</head>
+<body>
+    <div id="a">
+        <img id="img1"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/dcunetv-e452e13f-9a29-4c72-9ad1-db96a0537609.png/v1/fill/w_1280,h_542,strp/avengers__endgame__2019__logo_png__2_by_mintmovi3_dcunetv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQyIiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kY3VuZXR2LWU0NTJlMTNmLTlhMjktNGM3Mi05YWQxLWRiOTZhMDUzNzYwOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SA6FuF9bQUepCtWnIPDVkgvB9Br8zuLpHLVFGJrnPD8" alt="avengers">
+        <a href="C:\Users\bhavin\Desktop\DHRUVIL\html\avengers\home.html"><button class="home">Home</button></a>
+        <a href="C:\Users\bhavin\Desktop\DHRUVIL\html\avengers\movies.html"><button class="butn">Movies </button></a>
+        <a href="C:\Users\bhavin\Desktop\DHRUVIL\html\avengers\wallpaper.html"><button class="butn">Wallpapers</button></a>
+        <a href="C:\Users\bhavin\Desktop\DHRUVIL\html\avengers\logos.html"><button class="butn">Logos</button></a>
+        <a href="C:\Users\bhavin\Desktop\DHRUVIL\html\avengers\ringtone.html"><button class="butn" style="border-right-width: 0px;">Ringtone</button></a>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <br>
+    <br>
+    <div class="txt">
+        Welcome to my page Avengers fan...!!
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <div class="txt1">
+        You will find some great stuff related to MCU here !!!
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="bottom">
+        <br><br>
+            Thank you for visiting my page.
+        <br><br>
+        
+            Contact me via <a href="mailto:dhruvilrathod2001@gmail.com">Email</a>.
+            <br><br>
+        </div>
+</body>
+</html>
